@@ -22,16 +22,22 @@ const Banner = () => {
             React.js, HTML, CSS, Tailwind CSS and JavaScript.
           </p>
           <div className="space-x-6 text-4xl">
-            {/* <a className="hover:text-orange-500 cursor-pointer  " href="">
-              <i class="fa-brands fa-facebook"></i>
-            </a> */}
-            <a className="hover:text-orange-500 cursor-pointer  " href="">
+            <a
+              className="hover:text-orange-500 cursor-pointer  "
+              href="https://x.com/Abhishe6q"
+            >
               <i class="fa-brands fa-square-x-twitter"></i>
             </a>
-            <a className="hover:text-orange-500 cursor-pointer  " href="">
-              <i class="fa-brands fa-instagram"></i>
+            <a
+              className="hover:text-orange-500 cursor-pointer  "
+              href="https://github.com/Abhishakdp"
+            >
+              <i class="fa-brands fa-square-github"></i>
             </a>
-            <a className="hover:text-orange-500 cursor-pointer  " href="">
+            <a
+              className="hover:text-orange-500 cursor-pointer  "
+              href="https://www.linkedin.com/in/abhi60"
+            >
               <i class="fa-brands fa-linkedin"></i>
             </a>
           </div>
