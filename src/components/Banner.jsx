@@ -19,7 +19,8 @@ const Banner = () => {
           <h2 className="mt-2 text-3xl ">And i am Frontend Developer</h2>
           <p className="mt-2 mb-2 font-semibold">
             I can create dynamic, responsive, and user-friendly websites. Using
-            React.js, HTML, CSS, Tailwind CSS and JavaScript.
+            React.js, HTML, CSS, Tailwind CSS and JavaScript. You can click on
+            Github icon to explore my projects.
           </p>
           <div className="space-x-6 text-4xl">
             <a

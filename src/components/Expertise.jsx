@@ -1,24 +1,11 @@
 import React, { useState } from "react";
 
-const Services = () => {
-  const [card, setCard] = useState([
-    {
-      id: "",
-      image: "",
-      title: "",
-      desc: "",
-      actionButton: {
-        title: "",
-        link: "",
-      },
-    },
-  ]);
-
+const Expertise = () => {
   return (
     <>
-      <div id="services" className="main-container py-12 scroll-mt-[50px]">
+      <div id="expertise" className="main-container py-12 scroll-mt-[50px]">
         <h1 className="text-5xl text-center font-bold underline">
-          My Services
+          My Expertise
         </h1>
         <div className="services-container flex space-x-5 px-10 mt-12">
           <div className="service1 hover:bg-slate-100 cursor-pointer bg-slate-200 p-5 text-center space-y-4 shadow-lg rounded-xl">
@@ -47,4 +34,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Expertise;
