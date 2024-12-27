@@ -33,7 +33,7 @@ const Header = () => {
   ]);
 
   const [actionButton, setActionButton] = useState({
-    title: "Hire Me",
+    title: "Resume",
     link: "/hire-me",
   });
 
@@ -54,7 +54,7 @@ const Header = () => {
               <a
                 href={x.link}
                 onClick={isContact ? () => setHovered(true) : undefined}
-                className="hover:text-orange-600 font-semibold"
+                className="hover:text-sky-400 font-semibold"
               >
                 {x.title}
               </a>
@@ -79,7 +79,7 @@ const Header = () => {
       <div>
         <a
           href={actionButton.link}
-          className="px-3 py-2 text-2xl rounded-full hover:text-white bg-orange-500 shadow"
+          className="px-3 py-2 text-2xl rounded-full hover:text-white bg-sky-300 border border-black shadow"
         >
           {actionButton.title}
         </a>

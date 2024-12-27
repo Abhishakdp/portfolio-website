@@ -46,7 +46,7 @@ const Skills = () => {
           <div className="w-full p-10 flex flex-wrap justify-center">
             {skills.map((e) => {
               return (
-                <span className="bg-slate-200 hover:bg-orange-400 px-3 py-2 mx-2 my-1 rounded-full font-semibold ">
+                <span className="bg-slate-200 hover:bg-sky-300 px-3 py-2 mx-2 my-1 rounded-full font-semibold ">
                   {e}
                 </span>
               );
