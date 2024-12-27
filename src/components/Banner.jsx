@@ -25,18 +25,21 @@ const Banner = () => {
             <a
               className="hover:text-orange-500 cursor-pointer  "
               href="https://x.com/Abhishe6q"
+              target="_blank"
             >
               <i class="fa-brands fa-square-x-twitter"></i>
             </a>
             <a
               className="hover:text-orange-500 cursor-pointer  "
               href="https://github.com/Abhishakdp"
+              target="_blank"
             >
               <i class="fa-brands fa-square-github"></i>
             </a>
             <a
               className="hover:text-orange-500 cursor-pointer  "
               href="https://www.linkedin.com/in/abhi60"
+              target="_blank"
             >
               <i class="fa-brands fa-linkedin"></i>
             </a>
