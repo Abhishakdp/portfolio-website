@@ -36,11 +36,11 @@ const Skills = () => {
             }}
             className="text-center w-full p-10 space-y-5"
           >
-            <h1 className="text-2xl font-bold">I love these technology</h1>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
-              sed. Nisi illum vitae, neque enim atque illo earum fugit labore.
-            </p>
+            <h1 className="text-2xl font-bold">
+              Technologies which i learn and use
+            </h1>
+            <p>I am good at frontend Technologies</p>
+            <p>But i am also exploring Backend</p>
           </div>
 
           <div className="w-full p-10 flex flex-wrap justify-center">
