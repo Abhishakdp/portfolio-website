@@ -13,10 +13,7 @@ const Contact = () => {
         <h1 className="text-4xl font-bold text-center underline pt-2">
           Contact Us
         </h1>
-        <p className="text-center px-20 mt-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi unde
-          nostrum ipsam illo esse dolorum?
-        </p>
+        <p className="text-center px-20 mt-5">Feel free to contact with me.</p>
         <div className="flex flex-col px-20 space-y-3 mt-5">
           <label htmlFor="name">Enter Full Name</label>
           <input
