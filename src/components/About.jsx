@@ -6,8 +6,8 @@ const About = () => {
     image: flower2,
     title: "Education and Development",
     desc1: `I have done Bachelor of Computer Application form D.A.V Dollage Abohar,Punjab in 2023.`,
-    desc2: `During my education i learnt all technologies and languages which are in my course like Data Structures and Algorithms,
-     RDBMS (Oracle), Java, PHP, C & C++ and Web Development languages like HTML & CSS , Javascript. After education i learnt React.js, Tailwind CSS
+    desc2: `During my graduation i learned all the technologies and languages that were in my course like Data Structures and Algorithms,
+     RDBMS (Oracle), Java, PHP, C & C++ and Web Development languages like HTML & CSS , Javascript. After graduation i learned React.js, Tailwind CSS
      and build my portfolio website and some mini projects. I am currently exploring MERN Stack.`,
   });
 
